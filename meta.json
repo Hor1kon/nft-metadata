@@ -1,5 +1,4 @@
 {
-    "image": "https://i.sstatic.net/ou7s3.png",
     "name": "Duck",
     "description": "What about a round of golf?",
     "attributes": [{ "trait_type": "Awesomeness", "value": "Super cool" }]
